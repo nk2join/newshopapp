@@ -1,0 +1,7 @@
+{
+  "name": "Shop Ledger",
+  "description": "Personal shop management app for tracking products, purchases, sales, stock, expenses, and profit offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
